@@ -1,8 +1,8 @@
 # Welcome to Matthew's Blog
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+I've got more ideas than I have reliably been able to manage recently.  Writing is the avenue of choice when it comes to learning how to think.  It's been difficult to get started lately.  It's been difficult to continue.  I don't know why and so I'm here.  
 
-## Commands
+## Get a load of these 
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
